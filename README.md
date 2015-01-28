@@ -1,4 +1,4 @@
 todo-daily
 ==========
 
-List of TODOs -  its completion status on a per day basis
+List of TODOs - completion status of various things TODO on a per day basis
